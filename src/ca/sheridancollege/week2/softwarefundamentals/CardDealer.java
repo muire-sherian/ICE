@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Author: Eric Muir ID 991684132
+ * Date: 5/27/2022 3:21pm
+ * Desc: ICE1
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
@@ -17,5 +17,7 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         
         // First comments 3:07PM
+        Card aceSpades = new Card("Eric Muir", 1);
+        
     }
 }
