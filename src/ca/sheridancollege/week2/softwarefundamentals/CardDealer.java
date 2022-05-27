@@ -18,6 +18,6 @@ public class CardDealer
         
         // First comments 3:07PM
         Card aceSpades = new Card("Eric Muir", 1);
-        
+        System.out.printf("%s, %d %n", aceSpades.getSuit(), aceSpades.getValue());
     }
 }
